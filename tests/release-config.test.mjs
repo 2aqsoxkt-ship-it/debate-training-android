@@ -60,5 +60,8 @@ test("private signing material is excluded even if a developer puts it in the pr
 test("each Gradle staging project isolates Tauri dependency build outputs", () => {
   const gradle = read("android/src-tauri/gen/android/build.gradle.kts");
   assert.match(gradle, /name == "tauri-android"/);
-  assert.match(gradle, /layout\.buildDirectory\.set\(rootProject\.layout\.projectDirectory\.dir\("tauri-library-build"\)\)/);
+  assert.match(
+    gradle,
+    /layout\.buildDirectory\.set\(rootProject\.layout\.projectDirectory\.dir\("tauri-library-build"\)\)/,
+  );
 });
