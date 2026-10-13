@@ -14,8 +14,16 @@ test("open-source release is isolated, not debuggable, and optimized", () => {
   assert.match(release, /isJniDebuggable = false/);
   assert.match(release, /isMinifyEnabled = true/);
   assert.match(release, /isShrinkResources = true/);
-  assert.match(release, /signingConfig = signingConfigs\.getByName\("openSourceRelease"\)/);
-  for (const variable of ["DEBATE_ANDROID_KEYSTORE", "DEBATE_ANDROID_KEY_ALIAS", "DEBATE_ANDROID_STORE_PASSWORD", "DEBATE_ANDROID_KEY_PASSWORD"]) {
+  assert.match(
+    release,
+    /signingConfig = signingConfigs\.getByName\("openSourceRelease"\)/,
+  );
+  for (const variable of [
+    "DEBATE_ANDROID_KEYSTORE",
+    "DEBATE_ANDROID_KEY_ALIAS",
+    "DEBATE_ANDROID_STORE_PASSWORD",
+    "DEBATE_ANDROID_KEY_PASSWORD",
+  ]) {
     assert.ok(gradle.includes(variable));
   }
   assert.doesNotMatch(release, /signingConfigs\.getByName\("debug"\)/);
@@ -38,7 +46,19 @@ test("release builder cannot silently publish a debug APK or an old library", ()
 
 test("private signing material is excluded even if a developer puts it in the project", () => {
   const ignored = read(".gitignore");
-  for (const pattern of ["*.p12", "*.jks", "*.keystore", "**/keystore.properties", "**/signing*.xml"]) {
+  for (const pattern of [
+    "*.p12",
+    "*.jks",
+    "*.keystore",
+    "**/keystore.properties",
+    "**/signing*.xml",
+  ]) {
     assert.ok(ignored.includes(pattern), pattern);
   }
+});
+
+test("each Gradle staging project isolates Tauri dependency build outputs", () => {
+  const gradle = read("android/src-tauri/gen/android/build.gradle.kts");
+  assert.match(gradle, /name == "tauri-android"/);
+  assert.match(gradle, /layout\.buildDirectory\.set\(rootProject\.layout\.projectDirectory\.dir\("tauri-library-build"\)\)/);
 });

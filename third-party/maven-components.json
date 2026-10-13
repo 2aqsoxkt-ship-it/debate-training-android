@@ -1,0 +1,4232 @@
+{
+  "scope": "All Maven metadata resolved in this isolated build cache, including build tools; not all components ship in the APK",
+  "components": [
+    {
+      "coordinate": "androidx.activity/activity/1.10.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.activity/activity/1.10.1/META-INF/androidx/activity/activity/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "androidx.activity/activity/1.6.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.activity/activity/1.8.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.activity/activity-ktx/1.10.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.activity/activity-ktx/1.10.1/META-INF/androidx/activity/activity-ktx/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "androidx.annotation/annotation/1.1.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.annotation/annotation/1.3.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.annotation/annotation/1.8.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.annotation/annotation/1.9.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.annotation/annotation-experimental/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.annotation/annotation-experimental/1.3.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.annotation/annotation-experimental/1.4.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.annotation/annotation-jvm/1.9.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.annotation/annotation-jvm/1.9.1/META-INF/androidx/annotation/annotation/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "androidx.appcompat/appcompat/1.6.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.appcompat/appcompat/1.7.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.appcompat/appcompat-resources/1.6.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.appcompat/appcompat-resources/1.7.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.arch.core/core-common/2.1.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.arch.core/core-common/2.2.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.arch.core/core-runtime/2.1.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.arch.core/core-runtime/2.2.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.cardview/cardview/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.collection/collection/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.collection/collection/1.1.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.concurrent/concurrent-futures/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.concurrent/concurrent-futures/1.1.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.constraintlayout/constraintlayout/2.0.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.constraintlayout/constraintlayout-solver/2.0.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.coordinatorlayout/coordinatorlayout/1.1.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.core/core/1.1.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.core/core/1.13.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.core/core/1.13.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.core/core/1.7.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.core/core/1.9.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.core/core-ktx/1.13.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.core/core-ktx/1.13.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.core/core-ktx/1.7.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.core/core-ktx/1.8.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.core/core-ktx/1.9.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.core/core-viewtree/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.core/core-viewtree/1.0.0/META-INF/androidx/core/core-viewtree/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "androidx.cursoradapter/cursoradapter/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.customview/customview/1.1.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.databinding/databinding-common/8.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.databinding/databinding-common/8.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "androidx.databinding/databinding-compiler-common/8.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.databinding/databinding-compiler-common/8.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "androidx.documentfile/documentfile/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.drawerlayout/drawerlayout/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.drawerlayout/drawerlayout/1.1.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.dynamicanimation/dynamicanimation/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.emoji2/emoji2/1.2.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.emoji2/emoji2/1.3.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.emoji2/emoji2-views-helper/1.2.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.emoji2/emoji2-views-helper/1.3.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.fragment/fragment/1.3.6",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.fragment/fragment/1.5.4",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.interpolator/interpolator/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.legacy/legacy-support-core-ui/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.legacy/legacy-support-core-utils/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-common/2.10.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-common/2.5.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-common/2.6.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-common-jvm/2.10.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.lifecycle/lifecycle-common-jvm/2.10.0/META-INF/androidx/lifecycle/lifecycle-common/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-livedata/2.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-livedata/2.10.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.lifecycle/lifecycle-livedata/2.10.0/META-INF/androidx/lifecycle/lifecycle-livedata/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-livedata-core/2.10.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.lifecycle/lifecycle-livedata-core/2.10.0/META-INF/androidx/lifecycle/lifecycle-livedata-core/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-livedata-core/2.3.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-livedata-core/2.5.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-livedata-core-ktx/2.10.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.lifecycle/lifecycle-livedata-core-ktx/2.10.0/META-INF/androidx/lifecycle/lifecycle-livedata-core-ktx/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-process/2.10.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.lifecycle/lifecycle-process/2.10.0/META-INF/androidx/lifecycle/lifecycle-process/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-process/2.4.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-runtime/2.10.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-runtime/2.5.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-runtime/2.6.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-runtime-android/2.10.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.lifecycle/lifecycle-runtime-android/2.10.0/META-INF/androidx/lifecycle/lifecycle-runtime/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-runtime-ktx/2.10.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-runtime-ktx/2.6.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-runtime-ktx-android/2.10.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.lifecycle/lifecycle-runtime-ktx-android/2.10.0/META-INF/androidx/lifecycle/lifecycle-runtime-ktx/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-viewmodel/2.10.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.lifecycle/lifecycle-viewmodel/2.10.0/META-INF/androidx/lifecycle/lifecycle-viewmodel/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-viewmodel/2.5.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-viewmodel/2.6.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-viewmodel-android/2.10.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.lifecycle/lifecycle-viewmodel-android/2.10.0/META-INF/androidx/lifecycle/lifecycle-viewmodel/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-viewmodel-ktx/2.10.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.lifecycle/lifecycle-viewmodel-ktx/2.10.0/META-INF/androidx/lifecycle/lifecycle-viewmodel-ktx/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-viewmodel-ktx/2.6.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-viewmodel-savedstate/2.10.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-viewmodel-savedstate/2.5.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-viewmodel-savedstate/2.6.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.lifecycle/lifecycle-viewmodel-savedstate-android/2.10.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.lifecycle/lifecycle-viewmodel-savedstate-android/2.10.0/META-INF/androidx/lifecycle/lifecycle-viewmodel-savedstate/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "androidx.loader/loader/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.localbroadcastmanager/localbroadcastmanager/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.print/print/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.profileinstaller/profileinstaller/1.3.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.profileinstaller/profileinstaller/1.4.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.profileinstaller/profileinstaller/1.4.0/META-INF/androidx/profileinstaller/profileinstaller/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "androidx.recyclerview/recyclerview/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.recyclerview/recyclerview/1.1.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.resourceinspection/resourceinspection-annotation/1.0.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.savedstate/savedstate/1.2.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.savedstate/savedstate/1.2.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.savedstate/savedstate/1.4.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.savedstate/savedstate-android/1.4.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.savedstate/savedstate-android/1.4.0/META-INF/androidx/savedstate/savedstate/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "androidx.savedstate/savedstate-ktx/1.2.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.savedstate/savedstate-ktx/1.4.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.savedstate/savedstate-ktx/1.4.0/META-INF/androidx/savedstate/savedstate-ktx/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "androidx.startup/startup-runtime/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.startup/startup-runtime/1.1.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.tracing/tracing/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.transition/transition/1.2.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.transition/transition/1.5.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.vectordrawable/vectordrawable/1.1.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.vectordrawable/vectordrawable-animated/1.1.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.versionedparcelable/versionedparcelable/1.1.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.viewpager/viewpager/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.viewpager2/viewpager2/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "androidx.webkit/webkit/1.14.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/androidx.webkit/webkit/1.14.0/META-INF/androidx/webkit/webkit/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "com.android/signflinger/8.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.android/zipflinger/8.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.android.databinding/baseLibrary/8.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.databinding/baseLibrary/8.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools/annotations/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools/annotations/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools/common/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools/common/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools/dvlib/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools/dvlib/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools/play-sdk-proto/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools/play-sdk-proto/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools/repository/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools/repository/31.11.0/NOTICE",
+        "maven/com.android.tools/repository/31.11.0/com/android/repository/api/License.class"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools/sdk-common/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools/sdk-common/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools/sdklib/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools/sdklib/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.analytics-library/crash/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.analytics-library/crash/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.analytics-library/protos/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.analytics-library/protos/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.analytics-library/shared/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.analytics-library/shared/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.analytics-library/tracker/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.analytics-library/tracker/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.build/aapt2/8.11.0-12782657",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.build/aapt2/8.11.0-12782657/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.build/aapt2-proto/8.11.0-12782657",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.build/aapt2-proto/8.11.0-12782657/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.build/aaptcompiler/8.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.build/aaptcompiler/8.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.build/apksig/8.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.build/apksig/8.11.0/LICENSE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.build/apkzlib/8.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.build/apkzlib/8.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.build/builder/8.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.build/builder/8.11.0/NOTICE",
+        "maven/com.android.tools.build/builder/8.11.0/LICENSE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.build/builder-model/8.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.build/builder-model/8.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.build/builder-test-api/8.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.build/builder-test-api/8.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.build/bundletool/1.18.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.build/bundletool/1.18.1/NOTICE",
+        "maven/com.android.tools.build/bundletool/1.18.1/LICENSE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.build/gradle/8.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.build/gradle/8.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.build/gradle-api/8.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.build/gradle-api/8.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.build/gradle-settings-api/8.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.build/gradle-settings-api/8.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.build/manifest-merger/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.build/manifest-merger/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.build/transform-api/2.0.0-deprecated-use-gradle-api",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.android.tools.build.jetifier/jetifier-core/1.0.0-beta10",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.android.tools.build.jetifier/jetifier-processor/1.0.0-beta10",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.android.tools.ddms/ddmlib/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.ddms/ddmlib/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.external.com-intellij/intellij-core/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.android.tools.external.com-intellij/kotlin-compiler/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.android.tools.external.org-jetbrains/uast/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.external.org-jetbrains/uast/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.layoutlib/layoutlib-api/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.layoutlib/layoutlib-api/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.lint/lint/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.lint/lint/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.lint/lint-api/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.lint/lint-api/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.lint/lint-checks/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.lint/lint-checks/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.lint/lint-gradle/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.lint/lint-gradle/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.lint/lint-model/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.lint/lint-model/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.lint/lint-typedef-remover/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.lint/lint-typedef-remover/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.utp/android-device-provider-ddmlib-proto/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.utp/android-device-provider-ddmlib-proto/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.utp/android-device-provider-gradle-proto/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.utp/android-device-provider-gradle-proto/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.utp/android-device-provider-profile-proto/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.utp/android-device-provider-profile-proto/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.utp/android-test-plugin-host-additional-test-output-proto/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.utp/android-test-plugin-host-additional-test-output-proto/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.utp/android-test-plugin-host-apk-installer-proto/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.utp/android-test-plugin-host-apk-installer-proto/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.utp/android-test-plugin-host-coverage-proto/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.utp/android-test-plugin-host-coverage-proto/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.utp/android-test-plugin-host-emulator-control-proto/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.utp/android-test-plugin-host-emulator-control-proto/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.android.tools.utp/android-test-plugin-host-logcat-proto/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.android.tools.utp/android-test-plugin-result-listener-gradle-proto/31.11.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.android.tools.utp/android-test-plugin-result-listener-gradle-proto/31.11.0/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.fasterxml/oss-parent/50",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.fasterxml.jackson/jackson-base/2.15.3",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.fasterxml.jackson/jackson-bom/2.15.3",
+      "licenses": [
+        {
+          "name": "Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.fasterxml.jackson/jackson-parent/2.15",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.fasterxml.jackson.core/jackson-annotations/2.15.3",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.fasterxml.jackson.core/jackson-annotations/2.15.3/META-INF/LICENSE",
+        "maven/com.fasterxml.jackson.core/jackson-annotations/2.15.3/META-INF/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.fasterxml.jackson.core/jackson-core/2.15.3",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.fasterxml.jackson.core/jackson-core/2.15.3/META-INF/LICENSE",
+        "maven/com.fasterxml.jackson.core/jackson-core/2.15.3/META-INF/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.fasterxml.jackson.core/jackson-databind/2.15.3",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/com.fasterxml.jackson.core/jackson-databind/2.15.3/META-INF/LICENSE",
+        "maven/com.fasterxml.jackson.core/jackson-databind/2.15.3/META-INF/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "com.google.android/annotations/4.1.1.4",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.android.material/material/1.12.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.android.material/material/1.7.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.api.grpc/proto-google-common-protos/2.48.0",
+      "licenses": [
+        {
+          "name": "Apache-2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.auto/auto-parent/6",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.auto.value/auto-value-annotations/1.6.2",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.auto.value/auto-value-parent/1.6.2",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.code.findbugs/jsr305/3.0.2",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.code.gson/gson/2.11.0",
+      "licenses": [
+        {
+          "name": "Apache-2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.code.gson/gson/2.8.9",
+      "licenses": [
+        {
+          "name": "Apache-2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.code.gson/gson-parent/2.11.0",
+      "licenses": [
+        {
+          "name": "Apache-2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.code.gson/gson-parent/2.8.9",
+      "licenses": [
+        {
+          "name": "Apache-2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.crypto.tink/tink/1.7.0",
+      "licenses": [
+        {
+          "name": "Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.dagger/dagger/2.28.3",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.errorprone/error_prone_annotations/2.15.0",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.errorprone/error_prone_annotations/2.18.0",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.errorprone/error_prone_annotations/2.27.0",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.errorprone/error_prone_annotations/2.28.0",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.errorprone/error_prone_annotations/2.3.1",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.errorprone/error_prone_annotations/2.30.0",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.errorprone/error_prone_parent/2.15.0",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.errorprone/error_prone_parent/2.18.0",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.errorprone/error_prone_parent/2.27.0",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.errorprone/error_prone_parent/2.28.0",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.errorprone/error_prone_parent/2.3.1",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.errorprone/error_prone_parent/2.30.0",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.flatbuffers/flatbuffers-java/1.12.0",
+      "licenses": [
+        {
+          "name": "Apache License V2.0",
+          "url": "https://raw.githubusercontent.com/google/flatbuffers/master/LICENSE.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.guava/failureaccess/1.0.2",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.guava/guava/33.3.1-jre",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": [
+        "maven/com.google.guava/guava/33.3.1-jre/META-INF/LICENSE"
+      ]
+    },
+    {
+      "coordinate": "com.google.guava/guava-parent/26.0-android",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.guava/guava-parent/33.3.1-jre",
+      "licenses": [
+        {
+          "name": "Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.guava/listenablefuture/1.0",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.j2objc/j2objc-annotations/2.8",
+      "licenses": [
+        {
+          "name": "Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.j2objc/j2objc-annotations/3.0.0",
+      "licenses": [
+        {
+          "name": "Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.jimfs/jimfs/1.1",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.jimfs/jimfs-parent/1.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.protobuf/protobuf-bom/3.25.5",
+      "licenses": [
+        {
+          "name": "BSD-3-Clause",
+          "url": "https://opensource.org/licenses/BSD-3-Clause"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.protobuf/protobuf-java/3.25.5",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.protobuf/protobuf-java-util/3.25.5",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.protobuf/protobuf-parent/3.25.5",
+      "licenses": [
+        {
+          "name": "BSD-3-Clause",
+          "url": "https://opensource.org/licenses/BSD-3-Clause"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.google.testing.platform/core-proto/0.0.9-alpha03",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.googlecode.juniversalchardet/juniversalchardet/1.0.3",
+      "licenses": [
+        {
+          "name": "Mozilla Public License 1.1 (MPL 1.1)",
+          "url": "http://www.mozilla.org/MPL/MPL-1.1.html"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.squareup/javapoet/1.10.0",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.squareup/javawriter/2.5.0",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.sun.activation/all/1.2.0",
+      "licenses": [
+        {
+          "name": "CDDL/GPLv2+CE",
+          "url": "https://github.com/javaee/activation/blob/master/LICENSE.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.sun.activation/all/1.2.1",
+      "licenses": [
+        {
+          "name": "EDL 1.0",
+          "url": "http://www.eclipse.org/org/documents/edl-v10.php"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.sun.activation/javax.activation/1.2.0",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": [
+        "maven/com.sun.activation/javax.activation/1.2.0/META-INF/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "com.sun.istack/istack-commons/3.0.8",
+      "licenses": [
+        {
+          "name": "Eclipse Distribution License - v 1.0",
+          "url": "http://www.eclipse.org/org/documents/edl-v10.php"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.sun.istack/istack-commons-runtime/3.0.8",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": [
+        "maven/com.sun.istack/istack-commons-runtime/3.0.8/META-INF/LICENSE.md",
+        "maven/com.sun.istack/istack-commons-runtime/3.0.8/META-INF/NOTICE.md"
+      ]
+    },
+    {
+      "coordinate": "com.sun.xml.bind/jaxb-bom-ext/2.3.2",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.sun.xml.bind.mvn/jaxb-parent/2.3.2",
+      "licenses": [
+        {
+          "name": "Eclipse Distribution License - v 1.0",
+          "url": "http://www.eclipse.org/org/documents/edl-v10.php"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.sun.xml.bind.mvn/jaxb-runtime-parent/2.3.2",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.sun.xml.bind.mvn/jaxb-txw-parent/2.3.2",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "com.sun.xml.fastinfoset/FastInfoset/1.2.16",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": [
+        "maven/com.sun.xml.fastinfoset/FastInfoset/1.2.16/META-INF/LICENSE",
+        "maven/com.sun.xml.fastinfoset/FastInfoset/1.2.16/META-INF/NOTICE.md"
+      ]
+    },
+    {
+      "coordinate": "com.sun.xml.fastinfoset/fastinfoset-project/1.2.16",
+      "licenses": [
+        {
+          "name": "Apache License, Version 2.0",
+          "url": "http://www.opensource.org/licenses/apache2.0.php"
+        },
+        {
+          "name": "Eclipse Distribution License - v 1.0",
+          "url": "http://www.eclipse.org/org/documents/edl-v10.php"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "commons-codec/commons-codec/1.10",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": [
+        "maven/commons-codec/commons-codec/1.10/META-INF/LICENSE.txt",
+        "maven/commons-codec/commons-codec/1.10/META-INF/NOTICE.txt"
+      ]
+    },
+    {
+      "coordinate": "commons-codec/commons-codec/1.11",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": [
+        "maven/commons-codec/commons-codec/1.11/META-INF/LICENSE.txt",
+        "maven/commons-codec/commons-codec/1.11/META-INF/NOTICE.txt"
+      ]
+    },
+    {
+      "coordinate": "commons-io/commons-io/2.16.1",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": [
+        "maven/commons-io/commons-io/2.16.1/META-INF/LICENSE.txt",
+        "maven/commons-io/commons-io/2.16.1/META-INF/NOTICE.txt"
+      ]
+    },
+    {
+      "coordinate": "commons-logging/commons-logging/1.2",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": [
+        "maven/commons-logging/commons-logging/1.2/META-INF/NOTICE.txt",
+        "maven/commons-logging/commons-logging/1.2/META-INF/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "io.grpc/grpc-api/1.69.1",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "https://opensource.org/licenses/Apache-2.0"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.grpc/grpc-context/1.69.1",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "https://opensource.org/licenses/Apache-2.0"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.grpc/grpc-core/1.69.1",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "https://opensource.org/licenses/Apache-2.0"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.grpc/grpc-inprocess/1.69.1",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "https://opensource.org/licenses/Apache-2.0"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.grpc/grpc-netty/1.69.1",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "https://opensource.org/licenses/Apache-2.0"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.grpc/grpc-protobuf/1.69.1",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "https://opensource.org/licenses/Apache-2.0"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.grpc/grpc-protobuf-lite/1.69.1",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "https://opensource.org/licenses/Apache-2.0"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.grpc/grpc-stub/1.69.1",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "https://opensource.org/licenses/Apache-2.0"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.grpc/grpc-util/1.69.1",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "https://opensource.org/licenses/Apache-2.0"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.netty/netty-buffer/4.1.110.Final",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.netty/netty-codec/4.1.110.Final",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.netty/netty-codec-http/4.1.110.Final",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.netty/netty-codec-http2/4.1.110.Final",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.netty/netty-codec-socks/4.1.110.Final",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.netty/netty-common/4.1.110.Final",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.netty/netty-handler/4.1.110.Final",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.netty/netty-handler-proxy/4.1.110.Final",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.netty/netty-parent/4.1.110.Final",
+      "licenses": [
+        {
+          "name": "Apache License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.netty/netty-resolver/4.1.110.Final",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.netty/netty-transport/4.1.110.Final",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.netty/netty-transport-native-unix-common/4.1.110.Final",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "io.perfmark/perfmark-api/0.27.0",
+      "licenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "https://opensource.org/licenses/Apache-2.0"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "jakarta.activation/jakarta.activation-api/1.2.1",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": [
+        "maven/jakarta.activation/jakarta.activation-api/1.2.1/META-INF/NOTICE.md",
+        "maven/jakarta.activation/jakarta.activation-api/1.2.1/META-INF/LICENSE.md"
+      ]
+    },
+    {
+      "coordinate": "jakarta.xml.bind/jakarta.xml.bind-api/2.3.2",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": [
+        "maven/jakarta.xml.bind/jakarta.xml.bind-api/2.3.2/META-INF/LICENSE.md",
+        "maven/jakarta.xml.bind/jakarta.xml.bind-api/2.3.2/META-INF/NOTICE.md"
+      ]
+    },
+    {
+      "coordinate": "jakarta.xml.bind/jakarta.xml.bind-api-parent/2.3.2",
+      "licenses": [
+        {
+          "name": "Eclipse Distribution License - v 1.0",
+          "url": "http://www.eclipse.org/org/documents/edl-v10.php"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "javax.annotation/javax.annotation-api/1.3.2",
+      "licenses": [
+        {
+          "name": "CDDL + GPLv2 with classpath exception",
+          "url": "https://github.com/javaee/javax.annotation/blob/master/LICENSE"
+        }
+      ],
+      "notices": [
+        "maven/javax.annotation/javax.annotation-api/1.3.2/META-INF/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "javax.inject/javax.inject/1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "net.java/jvnet-parent/1",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "net.java/jvnet-parent/3",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "net.java.dev.jna/jna/5.6.0",
+      "licenses": [
+        {
+          "name": "LGPL, version 2.1",
+          "url": "http://www.gnu.org/licenses/licenses.html"
+        },
+        {
+          "name": "Apache License v2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/net.java.dev.jna/jna/5.6.0/META-INF/LICENSE"
+      ]
+    },
+    {
+      "coordinate": "net.java.dev.jna/jna-platform/5.6.0",
+      "licenses": [
+        {
+          "name": "LGPL, version 2.1",
+          "url": "http://www.gnu.org/licenses/licenses.html"
+        },
+        {
+          "name": "Apache License v2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/net.java.dev.jna/jna-platform/5.6.0/META-INF/LICENSE"
+      ]
+    },
+    {
+      "coordinate": "net.sf.jopt-simple/jopt-simple/4.9",
+      "licenses": [
+        {
+          "name": "The MIT License",
+          "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "net.sf.kxml/kxml2/2.3.0",
+      "licenses": [
+        {
+          "name": "BSD style",
+          "url": "http://kxml.cvs.sourceforge.net/viewvc/kxml/kxml2/license.txt?view=markup"
+        },
+        {
+          "name": "Public Domain",
+          "url": "http://creativecommons.org/licenses/publicdomain"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.apache/apache/13",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.apache/apache/15",
+      "licenses": [
+        {
+          "name": "Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.apache/apache/18",
+      "licenses": [
+        {
+          "name": "Apache License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.apache/apache/21",
+      "licenses": [
+        {
+          "name": "Apache License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.apache/apache/23",
+      "licenses": [
+        {
+          "name": "Apache License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.apache/apache/31",
+      "licenses": [
+        {
+          "name": "Apache-2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.apache.commons/commons-compress/1.21",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": [
+        "maven/org.apache.commons/commons-compress/1.21/META-INF/LICENSE.txt",
+        "maven/org.apache.commons/commons-compress/1.21/META-INF/NOTICE.txt"
+      ]
+    },
+    {
+      "coordinate": "org.apache.commons/commons-parent/34",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.apache.commons/commons-parent/35",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.apache.commons/commons-parent/42",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.apache.commons/commons-parent/52",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.apache.commons/commons-parent/69",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.apache.httpcomponents/httpclient/4.5.14",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": [
+        "maven/org.apache.httpcomponents/httpclient/4.5.14/META-INF/NOTICE",
+        "maven/org.apache.httpcomponents/httpclient/4.5.14/META-INF/LICENSE"
+      ]
+    },
+    {
+      "coordinate": "org.apache.httpcomponents/httpclient/4.5.6",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": [
+        "maven/org.apache.httpcomponents/httpclient/4.5.6/META-INF/LICENSE",
+        "maven/org.apache.httpcomponents/httpclient/4.5.6/META-INF/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "org.apache.httpcomponents/httpcomponents-client/4.5.14",
+      "licenses": [
+        {
+          "name": "Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.apache.httpcomponents/httpcomponents-client/4.5.6",
+      "licenses": [
+        {
+          "name": "Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.apache.httpcomponents/httpcomponents-core/4.4.16",
+      "licenses": [
+        {
+          "name": "Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.apache.httpcomponents/httpcomponents-parent/10",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.apache.httpcomponents/httpcomponents-parent/11",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.apache.httpcomponents/httpcore/4.4.16",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": [
+        "maven/org.apache.httpcomponents/httpcore/4.4.16/META-INF/NOTICE",
+        "maven/org.apache.httpcomponents/httpcore/4.4.16/META-INF/LICENSE"
+      ]
+    },
+    {
+      "coordinate": "org.apache.httpcomponents/httpmime/4.5.6",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": [
+        "maven/org.apache.httpcomponents/httpmime/4.5.6/META-INF/NOTICE",
+        "maven/org.apache.httpcomponents/httpmime/4.5.6/META-INF/LICENSE"
+      ]
+    },
+    {
+      "coordinate": "org.bitbucket.b_c/jose4j/0.9.5",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.bouncycastle/bcpkix-jdk18on/1.79",
+      "licenses": [
+        {
+          "name": "Bouncy Castle Licence",
+          "url": "https://www.bouncycastle.org/licence.html"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.bouncycastle/bcprov-jdk18on/1.79",
+      "licenses": [
+        {
+          "name": "Bouncy Castle Licence",
+          "url": "https://www.bouncycastle.org/licence.html"
+        }
+      ],
+      "notices": [
+        "maven/org.bouncycastle/bcprov-jdk18on/1.79/org/bouncycastle/LICENSE.class"
+      ]
+    },
+    {
+      "coordinate": "org.bouncycastle/bcutil-jdk18on/1.79",
+      "licenses": [
+        {
+          "name": "Bouncy Castle Licence",
+          "url": "https://www.bouncycastle.org/licence.html"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.checkerframework/checker-qual/2.5.8",
+      "licenses": [
+        {
+          "name": "The MIT License",
+          "url": "http://opensource.org/licenses/MIT"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.checkerframework/checker-qual/3.43.0",
+      "licenses": [
+        {
+          "name": "The MIT License",
+          "url": "http://opensource.org/licenses/MIT"
+        }
+      ],
+      "notices": [
+        "maven/org.checkerframework/checker-qual/3.43.0/META-INF/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "org.codehaus.groovy/groovy/3.0.22",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/org.codehaus.groovy/groovy/3.0.22/META-INF/LICENSE",
+        "maven/org.codehaus.groovy/groovy/3.0.22/META-INF/NOTICE"
+      ]
+    },
+    {
+      "coordinate": "org.codehaus.mojo/animal-sniffer-annotations/1.24",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.codehaus.mojo/animal-sniffer-parent/1.24",
+      "licenses": [
+        {
+          "name": "MIT license",
+          "url": "https://spdx.org/licenses/MIT.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.codehaus.mojo/mojo-parent/84",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.eclipse.ee4j/project/1.0.2",
+      "licenses": [
+        {
+          "name": "Eclipse Public License v. 2.0",
+          "url": "https://www.eclipse.org/org/documents/epl-2.0/EPL-2.0.txt"
+        },
+        {
+          "name": "GNU General Public License, version 2 with the GNU Classpath Exception",
+          "url": "https://www.gnu.org/software/classpath/license.html"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.eclipse.ee4j/project/1.0.5",
+      "licenses": [
+        {
+          "name": "Eclipse Public License v. 2.0",
+          "url": "https://www.eclipse.org/org/documents/epl-2.0/EPL-2.0.txt"
+        },
+        {
+          "name": "GNU General Public License, version 2 with the GNU Classpath Exception",
+          "url": "https://www.gnu.org/software/classpath/license.html"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.glassfish.jaxb/jaxb-bom/2.3.2",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.glassfish.jaxb/jaxb-runtime/2.3.2",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": [
+        "maven/org.glassfish.jaxb/jaxb-runtime/2.3.2/META-INF/LICENSE.md",
+        "maven/org.glassfish.jaxb/jaxb-runtime/2.3.2/META-INF/NOTICE.md"
+      ]
+    },
+    {
+      "coordinate": "org.glassfish.jaxb/txw2/2.3.2",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": [
+        "maven/org.glassfish.jaxb/txw2/2.3.2/META-INF/LICENSE.md",
+        "maven/org.glassfish.jaxb/txw2/2.3.2/META-INF/NOTICE.md"
+      ]
+    },
+    {
+      "coordinate": "org.gradle.kotlin/gradle-kotlin-dsl-plugins/5.2.0",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.gradle.kotlin.kotlin-dsl/org.gradle.kotlin.kotlin-dsl.gradle.plugin/5.2.0",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jdom/jdom2/2.0.6",
+      "licenses": [
+        {
+          "name": "Similar to Apache License but with the acknowledgment clause removed",
+          "url": "https://raw.github.com/hunterhacker/jdom/master/LICENSE.txt"
+        }
+      ],
+      "notices": [
+        "maven/org.jdom/jdom2/2.0.6/META-INF/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "org.jetbrains/annotations/13.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains/annotations/23.0.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.intellij.deps/trove4j/1.0.20200330",
+      "licenses": [
+        {
+          "name": "GNU LESSER GENERAL PUBLIC LICENSE 2.1",
+          "url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-android-extensions/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-assignment/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-assignment-compiler-plugin-embeddable/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-bom/1.8.22",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-build-common/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-build-statistics/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-build-tools-api/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-build-tools-api/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-build-tools-impl/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-compiler-embeddable/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.9.25/org/jetbrains/kotlin/com/intellij/util/lang/fastutil/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-compiler-embeddable/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-compiler-runner/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-compiler-runner/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-daemon-client/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-daemon-client/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-daemon-embeddable/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-daemon-embeddable/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-gradle-plugin/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/org.jetbrains.kotlin/kotlin-gradle-plugin/1.9.25/LICENSE.txt"
+      ]
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-gradle-plugin/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": [
+        "maven/org.jetbrains.kotlin/kotlin-gradle-plugin/2.0.21/META-INF/LICENSE",
+        "maven/org.jetbrains.kotlin/kotlin-gradle-plugin/2.0.21/META-INF/LICENSE.txt",
+        "maven/org.jetbrains.kotlin/kotlin-gradle-plugin/2.0.21/META-INF/NOTICE.txt"
+      ]
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-gradle-plugin-annotations/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-gradle-plugin-annotations/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-gradle-plugin-api/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-gradle-plugin-idea/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-gradle-plugin-idea/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-gradle-plugin-idea-proto/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-gradle-plugin-idea-proto/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-gradle-plugin-model/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-gradle-plugin-model/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-gradle-plugins-bom/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-gradle-plugins-bom/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-klib-commonizer-api/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-klib-commonizer-api/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-native-utils/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-native-utils/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-project-model/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-reflect/1.6.10",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-reflect/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-reflect/2.1.20",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-sam-with-receiver/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-sam-with-receiver-compiler-plugin-embeddable/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-script-runtime/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-script-runtime/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-scripting-common/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-scripting-common/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-scripting-compiler-impl-embeddable/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-scripting-compiler-impl-embeddable/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-scripting-jvm/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-scripting-jvm/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-stdlib/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-stdlib/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-stdlib/2.1.20",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-stdlib-common/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.8.0",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-stdlib-jdk7/2.1.20",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.8.0",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-stdlib-jdk8/2.1.20",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-tooling-core/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-tooling-core/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-util-io/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-util-io/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-util-klib/1.9.25",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlin/kotlin-util-klib/2.0.21",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlinx/kotlinx-coroutines-android/1.6.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlinx/kotlinx-coroutines-android/1.9.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlinx/kotlinx-coroutines-bom/1.6.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlinx/kotlinx-coroutines-bom/1.6.4",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlinx/kotlinx-coroutines-bom/1.7.3",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlinx/kotlinx-coroutines-bom/1.9.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlinx/kotlinx-coroutines-core/1.6.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlinx/kotlinx-coroutines-core/1.7.3",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlinx/kotlinx-coroutines-core/1.9.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.5.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.6.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.6.4",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.7.3",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.9.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlinx/kotlinx-serialization-bom/1.7.3",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlinx/kotlinx-serialization-core/1.7.3",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jetbrains.kotlinx/kotlinx-serialization-core-jvm/1.7.3",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jspecify/jspecify/1.0.0",
+      "licenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.junit/junit-bom/5.10.2",
+      "licenses": [
+        {
+          "name": "Eclipse Public License v2.0",
+          "url": "https://www.eclipse.org/legal/epl-v20.html"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.junit/junit-bom/5.9.2",
+      "licenses": [
+        {
+          "name": "Eclipse Public License v2.0",
+          "url": "https://www.eclipse.org/legal/epl-v20.html"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.jvnet.staxex/stax-ex/1.8.1",
+      "licenses": [
+        {
+          "name": "Eclipse Distribution License - v 1.0",
+          "url": "http://www.eclipse.org/org/documents/edl-v10.php"
+        }
+      ],
+      "notices": [
+        "maven/org.jvnet.staxex/stax-ex/1.8.1/META-INF/LICENSE.md",
+        "maven/org.jvnet.staxex/stax-ex/1.8.1/META-INF/NOTICE.md"
+      ]
+    },
+    {
+      "coordinate": "org.ow2/ow2/1.5.1",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.ow2.asm/asm/9.7.1",
+      "licenses": [
+        {
+          "name": "BSD-3-Clause",
+          "url": "https://asm.ow2.io/license.html"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.ow2.asm/asm-analysis/9.7.1",
+      "licenses": [
+        {
+          "name": "BSD-3-Clause",
+          "url": "https://asm.ow2.io/license.html"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.ow2.asm/asm-commons/9.7.1",
+      "licenses": [
+        {
+          "name": "BSD-3-Clause",
+          "url": "https://asm.ow2.io/license.html"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.ow2.asm/asm-tree/9.7.1",
+      "licenses": [
+        {
+          "name": "BSD-3-Clause",
+          "url": "https://asm.ow2.io/license.html"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.ow2.asm/asm-util/9.7.1",
+      "licenses": [
+        {
+          "name": "BSD-3-Clause",
+          "url": "https://asm.ow2.io/license.html"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.slf4j/slf4j-api/1.7.30",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.slf4j/slf4j-parent/1.7.30",
+      "licenses": [
+        {
+          "name": "MIT License",
+          "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.sonatype.oss/oss-parent/7",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.sonatype.oss/oss-parent/9",
+      "licenses": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ],
+      "notices": []
+    },
+    {
+      "coordinate": "org.tensorflow/tensorflow-lite-metadata/0.2.0",
+      "licenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "notices": []
+    }
+  ]
+}
