@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-replace-semantic-rules"
+description = "Enables the replace_semantic_rules command without any pre-configured scope."
+commands.allow = ["replace_semantic_rules"]
+
+[[permission]]
+identifier = "deny-replace-semantic-rules"
+description = "Denies the replace_semantic_rules command without any pre-configured scope."
+commands.deny = ["replace_semantic_rules"]

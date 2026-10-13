@@ -1,0 +1,21 @@
+name: Source checks
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  frontend:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: android/package-lock.json
+      - run: npm ci
+        working-directory: android
+      - run: npm run typecheck && npm run lint && npm run format:check && npm test && npm run build
+        working-directory: android
+      - run: node --test tests/release-config.test.mjs

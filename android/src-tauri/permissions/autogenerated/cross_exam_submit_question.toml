@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-cross-exam-submit-question"
+description = "Enables the cross_exam_submit_question command without any pre-configured scope."
+commands.allow = ["cross_exam_submit_question"]
+
+[[permission]]
+identifier = "deny-cross-exam-submit-question"
+description = "Denies the cross_exam_submit_question command without any pre-configured scope."
+commands.deny = ["cross_exam_submit_question"]

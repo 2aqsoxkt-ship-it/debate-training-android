@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-confirm-rules"
+description = "Enables the confirm_rules command without any pre-configured scope."
+commands.allow = ["confirm_rules"]
+
+[[permission]]
+identifier = "deny-confirm-rules"
+description = "Denies the confirm_rules command without any pre-configured scope."
+commands.deny = ["confirm_rules"]

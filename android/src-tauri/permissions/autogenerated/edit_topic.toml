@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-edit-topic"
+description = "Enables the edit_topic command without any pre-configured scope."
+commands.allow = ["edit_topic"]
+
+[[permission]]
+identifier = "deny-edit-topic"
+description = "Denies the edit_topic command without any pre-configured scope."
+commands.deny = ["edit_topic"]

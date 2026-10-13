@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-cross-exam-reveal"
+description = "Enables the cross_exam_reveal command without any pre-configured scope."
+commands.allow = ["cross_exam_reveal"]
+
+[[permission]]
+identifier = "deny-cross-exam-reveal"
+description = "Denies the cross_exam_reveal command without any pre-configured scope."
+commands.deny = ["cross_exam_reveal"]

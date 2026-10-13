@@ -1,0 +1,48 @@
+[package]
+name = "debate_training_agent"
+version = "0.1.2"
+license = "MIT"
+description = "本地优先的安卓辩论训练应用"
+edition = "2021"
+rust-version = "1.85"
+
+[lib]
+name = "debate_training_agent_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+regex = "1"
+reqwest = { version = "0.13", default-features = false, features = ["rustls"] }
+webpki-root-certs = "1"
+rusqlite = { version = "0.32", features = ["bundled"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+sha2 = "0.10"
+tauri = { version = "2", features = [] }
+tokio = { version = "1", features = ["rt-multi-thread", "time", "macros"] }
+thiserror = "1"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter", "fmt"] }
+unicode-segmentation = "1"
+ureq = "2"
+uuid = { version = "1", features = ["serde"] }
+
+[target.'cfg(windows)'.dependencies]
+keyring = { version = "3", features = ["windows-native"] }
+
+[target.'cfg(target_os = "android")'.dependencies]
+jni = "0.21"
+tao = { version = "0.35", default-features = false }
+
+[dev-dependencies]
+proptest = "1"
+
+[profile.release]
+codegen-units = 1
+lto = true
+opt-level = 3
+panic = "abort"
+strip = true

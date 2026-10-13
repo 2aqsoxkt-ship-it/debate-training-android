@@ -1,0 +1,57 @@
+.workspace-help {
+  display: grid;
+  gap: 20px;
+  line-height: 1.75;
+}
+
+.workspace-help-intro {
+  margin: 0;
+  padding: 12px 16px;
+  background: #edf5fa;
+  border-radius: 12px;
+  color: #31516b;
+}
+
+.workspace-help section h3 {
+  margin: 0 0 8px;
+  color: #243e51;
+  font-size: 17px;
+}
+
+.workspace-help section p,
+.workspace-help section ol {
+  margin: 0 0 8px;
+}
+
+.workspace-help section ol {
+  padding-left: 24px;
+}
+
+.workspace-help li + li {
+  margin-top: 6px;
+}
+
+.workspace-help-budgets {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  margin: 0 0 12px;
+}
+
+.workspace-help-budgets div {
+  padding: 12px;
+  border: 1px solid #dbe6ed;
+  border-radius: 12px;
+  background: #f7fafc;
+}
+
+.workspace-help-budgets dt {
+  font-size: 13px;
+  color: #5d7180;
+}
+
+.workspace-help-budgets dd {
+  margin: 4px 0 0;
+  color: #254a64;
+  font-weight: 600;
+}

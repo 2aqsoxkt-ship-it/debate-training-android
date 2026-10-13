@@ -1,0 +1,187 @@
+{
+  "assignment": {
+    "controller": "human",
+    "schemaVersion": "debater-assignment.v1",
+    "slot": "AFF_1"
+  },
+  "crossExamExchange": {
+    "answerTranscriptId": null,
+    "displayedAnswerUnits": 0,
+    "eventId": "00000000-0000-0000-0000-000000000002",
+    "id": "00000000-0000-0000-0000-000000000004",
+    "interruptedReason": "",
+    "questionText": "请定义高风险用途",
+    "questioner": "AFF_3",
+    "respondent": "NEG_3",
+    "schemaVersion": "cross-exam-exchange.v1",
+    "status": "question_submitted"
+  },
+  "matchEvent": {
+    "id": "00000000-0000-0000-0000-000000000002",
+    "kind": "speech_submitted",
+    "schemaVersion": "match-event.v1",
+    "sequence": 1,
+    "slot": "AFF_1",
+    "summary": "提交陈词"
+  },
+  "matchReport": {
+    "formulaVersion": "score.v1",
+    "matchId": "00000000-0000-0000-0000-000000000001",
+    "schemaVersion": "match-report.v1",
+    "standard": true
+  },
+  "matchSetup": {
+    "materials": "闭卷材料",
+    "mode": "training",
+    "ruleset": {
+      "affirmativeDuties": ["立论", "展开", "攻辩", "总结"],
+      "negativeDuties": ["立论", "展开", "攻辩", "总结"],
+      "rulesetName": "四对四示例",
+      "schemaVersion": "ruleset.v1",
+      "sourceText": "一辩陈词三分钟，自由辩交替，四辩总结。",
+      "stages": [
+        {
+          "clockOwner": "individual",
+          "durationSeconds": 180,
+          "earlyEndAllowed": true,
+          "followUpAllowed": false,
+          "id": "opening",
+          "interruptLimit": 0,
+          "interruptible": false,
+          "kind": "opening",
+          "name": "正方一辩陈词",
+          "questioner": null,
+          "repeat": 1,
+          "respondent": null,
+          "speakers": ["AFF_1"],
+          "speakerDurations": [180],
+          "weight": 1
+        },
+        {
+          "clockOwner": "team",
+          "durationSeconds": 30,
+          "earlyEndAllowed": true,
+          "followUpAllowed": false,
+          "id": "free",
+          "interruptLimit": 0,
+          "interruptible": false,
+          "kind": "free_debate",
+          "name": "自由辩",
+          "questioner": null,
+          "repeat": 1,
+          "respondent": null,
+          "speakers": ["AFF_3", "NEG_3"],
+          "speakerDurations": [30, 30],
+          "weight": 1
+        },
+        {
+          "clockOwner": "individual",
+          "durationSeconds": 180,
+          "earlyEndAllowed": true,
+          "followUpAllowed": false,
+          "id": "summary",
+          "interruptLimit": 0,
+          "interruptible": false,
+          "kind": "summary",
+          "name": "反方四辩总结",
+          "questioner": null,
+          "repeat": 1,
+          "respondent": null,
+          "speakers": ["NEG_4"],
+          "speakerDurations": [180],
+          "weight": 1
+        }
+      ]
+    },
+    "schemaVersion": "match-setup.v1",
+    "speechRatePerMinute": 240,
+    "topic": "人工智能应被禁止"
+  },
+  "ruleset": {
+    "affirmativeDuties": ["立论", "展开", "攻辩", "总结"],
+    "negativeDuties": ["立论", "展开", "攻辩", "总结"],
+    "rulesetName": "四对四示例",
+    "schemaVersion": "ruleset.v1",
+    "sourceText": "一辩陈词三分钟，自由辩交替，四辩总结。",
+    "stages": [
+      {
+        "clockOwner": "individual",
+        "durationSeconds": 180,
+        "earlyEndAllowed": true,
+        "followUpAllowed": false,
+        "id": "opening",
+        "interruptLimit": 0,
+        "interruptible": false,
+        "kind": "opening",
+        "name": "正方一辩陈词",
+        "questioner": null,
+        "repeat": 1,
+        "respondent": null,
+        "speakers": ["AFF_1"],
+        "speakerDurations": [180],
+        "weight": 1
+      },
+      {
+        "clockOwner": "team",
+        "durationSeconds": 30,
+        "earlyEndAllowed": true,
+        "followUpAllowed": false,
+        "id": "free",
+        "interruptLimit": 0,
+        "interruptible": false,
+        "kind": "free_debate",
+        "name": "自由辩",
+        "questioner": null,
+        "repeat": 1,
+        "respondent": null,
+        "speakers": ["AFF_3", "NEG_3"],
+        "speakerDurations": [30, 30],
+        "weight": 1
+      },
+      {
+        "clockOwner": "individual",
+        "durationSeconds": 180,
+        "earlyEndAllowed": true,
+        "followUpAllowed": false,
+        "id": "summary",
+        "interruptLimit": 0,
+        "interruptible": false,
+        "kind": "summary",
+        "name": "反方四辩总结",
+        "questioner": null,
+        "repeat": 1,
+        "respondent": null,
+        "speakers": ["NEG_4"],
+        "speakerDurations": [180],
+        "weight": 1
+      }
+    ]
+  },
+  "stageEvaluation": {
+    "schemaVersion": "stage-evaluation.v1",
+    "stageId": "opening",
+    "summary": "完成立论",
+    "transcriptIds": ["00000000-0000-0000-0000-000000000003"]
+  },
+  "transcriptEntry": {
+    "crossExamExchangeId": null,
+    "effectiveText": "你好",
+    "effectiveUnits": 2,
+    "eventId": "00000000-0000-0000-0000-000000000002",
+    "fullText": "你好，世界",
+    "id": "00000000-0000-0000-0000-000000000003",
+    "overflowText": "",
+    "responseTargetText": "",
+    "schemaVersion": "transcript-entry.v1",
+    "slot": "AFF_1"
+  },
+  "turnMetricSummary": {
+    "effectivePositiveUnits": 2,
+    "forwardTypedUnits": 2,
+    "pasteUnits": 0,
+    "pauseMs": 0,
+    "reverseEditedUnits": 0,
+    "schemaVersion": "turn-metric-summary.v1",
+    "turnId": "00000000-0000-0000-0000-000000000002"
+  }
+}

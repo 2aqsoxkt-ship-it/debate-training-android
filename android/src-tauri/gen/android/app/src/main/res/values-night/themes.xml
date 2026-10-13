@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.debate_training_agent" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">#f3f1ec</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

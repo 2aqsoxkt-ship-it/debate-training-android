@@ -1,0 +1,685 @@
+/* Mobile-only, loaded with MobileViewport. Presentation never owns match state. */
+.mobile-shell {
+  min-height: 100dvh;
+  color: var(--ink);
+  font-family: system-ui, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif;
+  overflow-wrap: anywhere;
+  padding: env(safe-area-inset-top, 0px) env(safe-area-inset-right, 0px)
+    env(safe-area-inset-bottom, 0px) env(safe-area-inset-left, 0px);
+}
+
+.mobile-shell button,
+.mobile-shell input:not([type="checkbox"]):not([type="radio"]),
+.mobile-shell select {
+  min-height: 44px;
+}
+
+.mobile-shell button,
+.mobile-shell a,
+.mobile-shell input,
+.mobile-shell select,
+.mobile-shell summary {
+  touch-action: manipulation;
+}
+
+.mobile-shell button,
+.mobile-shell input,
+.mobile-shell textarea,
+.mobile-shell select {
+  font-size: 1rem;
+}
+
+.mobile-shell :focus-visible {
+  outline: 3px solid var(--brand);
+  outline-offset: 3px;
+}
+
+.mobile-shell .match-console,
+.mobile-shell .match-page {
+  min-height: var(--visible-height, 100dvh);
+}
+
+.mobile-shell .match-arena-grid {
+  grid-template-columns: minmax(0, 1fr);
+  padding: 0.75rem;
+  gap: 1rem;
+}
+
+.mobile-shell .arena-seats-panel {
+  display: none;
+}
+
+.mobile-shell .stage-surface {
+  order: initial;
+  min-height: 0;
+  min-width: 0;
+  padding: 1rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.mobile-shell .match-command-bar {
+  position: static;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0.5rem;
+  padding: 0.75rem;
+  backdrop-filter: none;
+}
+
+.mobile-shell .match-identity > strong {
+  white-space: normal;
+  font-size: 1.05rem;
+  line-height: 1.5;
+}
+
+.mobile-shell .match-identity .eyebrow {
+  display: none;
+}
+
+.mobile-shell .match-identity > span {
+  font-size: 0.85rem;
+}
+
+.mobile-shell .match-team-clocks {
+  grid-column: 1;
+  grid-row: auto;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  justify-content: stretch;
+  gap: 0.35rem;
+}
+
+.mobile-shell .round-clock {
+  grid-row: auto;
+  grid-column: auto;
+}
+
+.mobile-shell .team-clock,
+.mobile-shell .round-clock {
+  padding: 0.5rem 0.25rem;
+  text-align: center;
+}
+
+.mobile-shell .team-clock span,
+.mobile-shell .round-clock span {
+  font-size: 0.75rem;
+}
+
+.mobile-shell .team-clock strong,
+.mobile-shell .round-clock strong {
+  font-size: 1.1rem;
+}
+
+.mobile-shell .match-tools {
+  grid-column: 1;
+  grid-row: auto;
+  justify-content: flex-start;
+  gap: 0.4rem;
+}
+
+.mobile-shell .match-tools > .status-badge {
+  flex-basis: 100%;
+}
+
+.mobile-shell .match-tools button {
+  flex: 1 0 auto;
+  padding: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.mobile-shell .match-command-bar > .progress-block {
+  grid-column: 1 / -1;
+  grid-row: auto;
+}
+
+.mobile-shell .control-scope {
+  margin: 0;
+  padding: 0.75rem;
+  background: #faf7f0;
+  font-size: 0.85rem;
+}
+
+.mobile-shell .control-scope select {
+  max-width: 100%;
+}
+
+.mobile-shell .current-stage-header {
+  display: grid;
+  gap: 0.5rem;
+}
+
+.mobile-shell .current-stage-header p,
+.mobile-shell .stage-composer label,
+.mobile-shell .composer-meta,
+.mobile-shell .seat-copy small {
+  font-size: 0.85rem;
+}
+
+.mobile-shell .stage-rule-chips {
+  justify-content: flex-start;
+}
+
+.mobile-shell .stage-rule-chips span {
+  font-size: 0.8rem;
+}
+
+.mobile-shell .match-timeline {
+  grid-template-rows: auto minmax(12rem, 36dvh);
+  min-width: 0;
+  padding: 0.75rem;
+}
+
+.mobile-shell .match-timeline > header {
+  align-items: stretch;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.mobile-shell .match-timeline .eyebrow {
+  display: none;
+}
+
+.mobile-shell .timeline-tools {
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.mobile-shell .timeline-tools label {
+  font-size: 0.85rem;
+  margin: 0;
+}
+
+.mobile-shell .timeline-follow {
+  min-height: 44px;
+}
+
+.mobile-shell input[type="checkbox"],
+.mobile-shell input[type="radio"] {
+  flex: 0 0 auto;
+  width: 1.3rem;
+  height: 1.3rem;
+}
+
+.mobile-shell .timeline-scroll li > div {
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  font-size: 0.85rem;
+}
+
+.mobile-shell .response-target {
+  margin-block: 0.5rem;
+}
+
+.mobile-shell summary {
+  min-height: 44px;
+  cursor: pointer;
+  padding-block: 0.5rem;
+}
+
+.mobile-shell .composer-actions {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.mobile-shell .composer-actions button {
+  margin: 0;
+  flex: 1 1 10rem;
+}
+
+.mobile-shell
+  .composer-actions
+  button:disabled:first-child:not(.primary-action) {
+  display: none;
+}
+
+.mobile-shell .stage-composer textarea {
+  min-height: 8rem;
+  line-height: 1.7;
+}
+
+.mobile-shell .current-control small {
+  flex-basis: 100%;
+}
+
+.mobile-shell .stage-thinking,
+.mobile-shell .ai-recovery,
+.mobile-shell .cross-header {
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.mobile-shell .stage-thinking > span:nth-child(2) {
+  flex: 1 1 10rem;
+}
+
+.mobile-shell .stream-draft {
+  max-height: 14rem;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+.mobile-shell .cross-exam-panel,
+.mobile-shell .free-debate-panel {
+  padding: 0.75rem;
+}
+
+.mobile-shell .cross-phase-line {
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.mobile-shell .cross-roles {
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 0.5rem;
+}
+
+.mobile-shell .cross-versus {
+  display: none;
+}
+
+.mobile-shell .free-clock-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.mobile-shell .drawer-section {
+  border-color: #d4cabc;
+  background: #fffdf8;
+  color: #302d27;
+}
+
+.mobile-shell .overlay-backdrop {
+  padding: 1rem;
+  backdrop-filter: none;
+  overflow-y: auto;
+}
+
+.mobile-shell .drawer-backdrop {
+  padding: 0;
+}
+
+.mobile-shell .app-drawer {
+  width: min(34rem, 100%);
+  max-height: var(--visible-height, 100dvh);
+  overscroll-behavior: contain;
+  padding-top: env(safe-area-inset-top, 0px);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+.mobile-shell .app-drawer > header {
+  padding: 1rem;
+}
+
+.mobile-shell .app-drawer > header button {
+  min-width: 44px;
+}
+
+.mobile-shell .drawer-content {
+  padding: 1rem 1rem 2rem;
+}
+
+.mobile-shell .seat-drawer-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.5rem;
+}
+
+.mobile-shell .seat-copy strong,
+.mobile-shell .seat-copy small {
+  white-space: normal;
+}
+
+.mobile-shell .seat-status {
+  font-size: 0.75rem;
+}
+
+.mobile-shell .seat.speaking {
+  transform: none;
+}
+
+.mobile-shell .launch-splash {
+  min-height: var(--visible-height, 100dvh);
+  padding: 1.25rem;
+}
+
+.mobile-shell .launch-card {
+  width: min(100%, 32rem);
+  padding: 1.75rem;
+  background: rgba(255, 253, 248, 0.96);
+}
+
+.mobile-shell .launch-card button {
+  width: 100%;
+}
+
+.mobile-shell .profile-workspace,
+.mobile-shell .source-choice-grid {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr));
+}
+
+.mobile-shell .reveal-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: 0.75rem;
+  margin-block: 0.75rem;
+}
+
+.mobile-shell .reveal-controls label {
+  flex: 1 1 10rem;
+  min-width: 0;
+}
+.mobile-shell .reveal-interrupt {
+  min-width: 6rem;
+  margin: 0;
+  color: #fff;
+  background: #69453d;
+}
+.mobile-shell .revealed-text {
+  max-height: min(36dvh, 16rem);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  border: 1px solid #d4cabc;
+  border-radius: var(--radius-sm);
+  padding: 0.75rem;
+  margin-block: 0.75rem;
+  background: #fffdf8;
+  line-height: 1.8;
+  white-space: pre-wrap;
+}
+.mobile-shell .revealed-text p {
+  margin: 0;
+}
+.mobile-shell .schedule-preview {
+  width: 100%;
+}
+.mobile-shell .schedule-preview table {
+  width: 100%;
+}
+.mobile-shell .schedule-preview select {
+  min-width: 0;
+  max-width: 100%;
+  width: 100%;
+}
+
+@media (min-width: 840px) {
+  .mobile-shell .schedule-preview table {
+    table-layout: fixed;
+  }
+  .mobile-shell .schedule-preview th:first-child {
+    width: 3rem;
+  }
+  .mobile-shell .schedule-preview th:nth-child(2) {
+    width: 22%;
+  }
+  .mobile-shell .schedule-preview th:last-child {
+    width: 24%;
+  }
+}
+
+/* The editor and final review both stay horizontal in phone/split-screen windows. */
+@media (max-width: 839px) {
+  .mobile-shell .schedule-preview thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+  }
+  .mobile-shell .schedule-preview table,
+  .mobile-shell .schedule-preview tbody {
+    display: block;
+  }
+  .mobile-shell .schedule-preview tbody {
+    display: grid;
+    gap: 0.75rem;
+  }
+  .mobile-shell .schedule-preview tr {
+    display: grid;
+    grid-template-columns: 2rem minmax(0, 1fr);
+    gap: 0.75rem;
+    padding: 1rem;
+    border: 1px solid #d4cabc;
+    border-radius: var(--radius-md);
+    background: #fffdf8;
+  }
+  .mobile-shell .schedule-preview td {
+    display: grid;
+    min-width: 0;
+    padding: 0;
+    border: 0;
+    grid-column: 1 / -1;
+    overflow-wrap: break-word;
+    line-height: 1.6;
+  }
+  .mobile-shell .schedule-preview td:first-child {
+    grid-column: 1;
+    grid-row: 1;
+    font-weight: 700;
+  }
+  .mobile-shell .schedule-preview td:nth-child(2) {
+    grid-column: 2;
+    grid-row: 1;
+    font-weight: 700;
+  }
+  .mobile-shell .schedule-preview td:nth-child(n + 3)::before {
+    content: attr(data-label);
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+  .mobile-shell .rule-stage-summary {
+    grid-template-columns: 2rem minmax(0, 1fr) auto;
+    gap: 0.5rem;
+  }
+  .mobile-shell .rule-stage-title {
+    min-width: 0;
+    line-height: 1.6;
+  }
+  .mobile-shell .rule-stage-summary .confidence-chip,
+  .mobile-shell .rule-stage-summary .issue-chip {
+    grid-column: 2 / -1;
+    justify-self: start;
+  }
+  .mobile-shell .rule-stage-summary .disclosure {
+    grid-column: 3;
+    grid-row: 1;
+    white-space: nowrap;
+  }
+  .mobile-shell .rule-stage-grid label {
+    flex: 1 1 100%;
+    min-width: 0;
+    width: 100%;
+  }
+  .mobile-shell .rule-stage-toolbar {
+    flex-wrap: wrap;
+  }
+  .mobile-shell .rule-coverage header {
+    flex-wrap: wrap;
+  }
+  .mobile-shell .rule-coverage li > div {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .mobile-shell .rule-coverage select {
+    min-width: 0;
+    max-width: 100%;
+  }
+}
+
+/* Medium-width tablets retain a wide reading surface, not eight seat rails. */
+@media (min-width: 600px) {
+  .mobile-shell .match-command-bar {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  }
+
+  .mobile-shell .match-tools {
+    grid-column: 2;
+    grid-row: 1;
+    align-content: center;
+  }
+
+  .mobile-shell .match-team-clocks {
+    grid-column: 1 / -1;
+  }
+
+  .mobile-shell .match-timeline > header {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .mobile-shell .stage-surface {
+    padding: 1.25rem;
+  }
+}
+
+/* Expanded window, not an isTablet flag; split-screen falls back automatically. */
+@media (min-width: 840px) and (min-height: 480px) {
+  .mobile-shell .match-arena-grid {
+    grid-template-columns: minmax(0, 1fr) 15rem;
+    max-width: 88rem;
+    align-items: start;
+  }
+
+  .mobile-shell .arena-seats-panel {
+    display: grid;
+    gap: 1rem;
+    position: sticky;
+    top: 0.75rem;
+    max-height: calc(100dvh - 1.5rem);
+    overflow-y: auto;
+    scrollbar-gutter: stable;
+    padding: 0.75rem;
+    border: 1px solid #d4cabc;
+    border-radius: var(--radius-md);
+    background: #f8f3e9;
+  }
+
+  .mobile-shell .team-rail {
+    position: static;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    overflow: visible;
+  }
+
+  .mobile-shell .arena-next h3 {
+    margin: 0;
+  }
+
+  .mobile-shell .arena-next ol {
+    margin: 0.5rem 0 0;
+    padding-left: 1.25rem;
+    font-size: 0.85rem;
+  }
+
+  .mobile-shell .match-timeline {
+    grid-template-rows: auto minmax(16rem, 44dvh);
+  }
+
+  .mobile-shell .workspace.pre-match-page {
+    padding: 1.5rem;
+  }
+
+  .mobile-shell .workspace-layout {
+    grid-template-columns: 12rem minmax(0, 1fr);
+  }
+
+  .mobile-shell .setup-stepper ol {
+    grid-template-columns: minmax(0, 1fr);
+    overflow: visible;
+  }
+
+  .mobile-shell .setup-summary {
+    grid-column: 1 / -1;
+    position: static;
+  }
+}
+
+@media (max-width: 599px) {
+  .mobile-shell .workspace,
+  .mobile-shell .workspace.pre-match-page,
+  .mobile-shell .report-page {
+    padding: 1rem 0.75rem 2rem;
+  }
+
+  .mobile-shell .workspace-layout {
+    display: block;
+  }
+
+  .mobile-shell .setup-stepper {
+    margin-bottom: 0.75rem;
+  }
+
+  .mobile-shell .setup-stepper ol {
+    grid-template-columns: repeat(5, minmax(8.5rem, 1fr));
+    scroll-snap-type: x proximity;
+  }
+
+  .mobile-shell .setup-stepper li {
+    scroll-snap-align: center;
+  }
+
+  .mobile-shell .role-grid,
+  .mobile-shell .form-grid,
+  .mobile-shell .profile-workspace,
+  .mobile-shell .source-choice-grid,
+  .mobile-shell .analysis-brief,
+  .mobile-shell .launch-summary,
+  .mobile-shell .report-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .mobile-shell .setup-summary {
+    margin-top: 1rem;
+  }
+
+  .mobile-shell .match-tools > .danger-ghost {
+    flex-basis: 100%;
+  }
+
+  .mobile-shell .match-arena-grid {
+    padding: 0.5rem;
+  }
+
+  .mobile-shell .stage-surface {
+    padding: 0.75rem;
+  }
+
+  .mobile-shell .current-stage-header h1 {
+    font-size: 1.4rem;
+  }
+
+  .mobile-shell .timeline-scroll li {
+    padding: 0.65rem;
+  }
+
+  .mobile-shell .cross-phase-line {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .mobile-shell .cross-phase-line span {
+    font-size: 0.8rem;
+    white-space: nowrap;
+  }
+
+  .mobile-shell .control-scope select {
+    font-size: 0.85rem;
+  }
+}
+
+/* A landscape phone is wide but too short for a permanent side panel. */
+@media (max-height: 479px) {
+  .mobile-shell .match-timeline {
+    grid-template-rows: auto 10rem;
+  }
+}
+
+.mobile-shell[data-keyboard-open="true"] .match-identity,
+.mobile-shell[data-keyboard-open="true"] .match-command-bar > .progress-block {
+  display: none;
+}
+
+.mobile-shell[data-keyboard-open="true"] .match-timeline {
+  grid-template-rows: auto 10rem;
+}
+
+.mobile-shell[data-keyboard-open="true"] .stage-composer textarea {
+  min-height: 6rem;
+}

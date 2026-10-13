@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-take-seat"
+description = "Enables the take_seat command without any pre-configured scope."
+commands.allow = ["take_seat"]
+
+[[permission]]
+identifier = "deny-take-seat"
+description = "Denies the take_seat command without any pre-configured scope."
+commands.deny = ["take_seat"]

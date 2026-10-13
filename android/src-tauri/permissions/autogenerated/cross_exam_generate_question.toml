@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-cross-exam-generate-question"
+description = "Enables the cross_exam_generate_question command without any pre-configured scope."
+commands.allow = ["cross_exam_generate_question"]
+
+[[permission]]
+identifier = "deny-cross-exam-generate-question"
+description = "Denies the cross_exam_generate_question command without any pre-configured scope."
+commands.deny = ["cross_exam_generate_question"]

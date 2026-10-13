@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-set-event-controller"
+description = "Enables the set_event_controller command without any pre-configured scope."
+commands.allow = ["set_event_controller"]
+
+[[permission]]
+identifier = "deny-set-event-controller"
+description = "Denies the set_event_controller command without any pre-configured scope."
+commands.deny = ["set_event_controller"]

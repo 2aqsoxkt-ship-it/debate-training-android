@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-release-completed-match"
+description = "Enables the release_completed_match command without any pre-configured scope."
+commands.allow = ["release_completed_match"]
+
+[[permission]]
+identifier = "deny-release-completed-match"
+description = "Denies the release_completed_match command without any pre-configured scope."
+commands.deny = ["release_completed_match"]

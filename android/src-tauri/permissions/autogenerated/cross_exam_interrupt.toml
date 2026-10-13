@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-cross-exam-interrupt"
+description = "Enables the cross_exam_interrupt command without any pre-configured scope."
+commands.allow = ["cross_exam_interrupt"]
+
+[[permission]]
+identifier = "deny-cross-exam-interrupt"
+description = "Denies the cross_exam_interrupt command without any pre-configured scope."
+commands.deny = ["cross_exam_interrupt"]

@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-recognize-rules"
+description = "Enables the recognize_rules command without any pre-configured scope."
+commands.allow = ["recognize_rules"]
+
+[[permission]]
+identifier = "deny-recognize-rules"
+description = "Denies the recognize_rules command without any pre-configured scope."
+commands.deny = ["recognize_rules"]

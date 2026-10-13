@@ -1,0 +1,125 @@
+[
+  {
+    "name": "mid-text-replacement-punctuation-and-paste",
+    "events": [
+      {
+        "kind": "replace",
+        "start": 0,
+        "end": 0,
+        "text": "甲，乙丙丁",
+        "source": "typed"
+      },
+      {
+        "kind": "replace",
+        "start": 2,
+        "end": 4,
+        "text": "替换",
+        "source": "typed"
+      },
+      {
+        "kind": "replace",
+        "start": 1,
+        "end": 2,
+        "text": "",
+        "source": "typed"
+      },
+      {
+        "kind": "replace",
+        "start": 1,
+        "end": 1,
+        "text": "粘贴",
+        "source": "pasted"
+      }
+    ],
+    "text": "甲粘贴替换丁",
+    "claimed": {
+      "inputElapsedMs": 4000,
+      "forwardTypedUnits": 6,
+      "effectivePositiveUnits": 4,
+      "reverseUnits": 2,
+      "reverseActions": 2,
+      "pasteUnits": 2,
+      "pauseMs": 0,
+      "focusLossMs": 0
+    }
+  },
+  {
+    "name": "utf16-emoji-and-zero-unit-delete",
+    "events": [
+      {
+        "kind": "replace",
+        "start": 0,
+        "end": 0,
+        "text": "甲😀乙",
+        "source": "typed"
+      },
+      {
+        "kind": "replace",
+        "start": 3,
+        "end": 4,
+        "text": "丙",
+        "source": "typed"
+      },
+      { "kind": "replace", "start": 1, "end": 3, "text": "", "source": "typed" }
+    ],
+    "text": "甲丙",
+    "claimed": {
+      "inputElapsedMs": 4000,
+      "forwardTypedUnits": 3,
+      "effectivePositiveUnits": 2,
+      "reverseUnits": 1,
+      "reverseActions": 2,
+      "pasteUnits": 0,
+      "pauseMs": 0,
+      "focusLossMs": 0
+    }
+  },
+  {
+    "name": "legacy-draft-then-positional-edit",
+    "events": [
+      { "kind": "insert", "text": "电脑手机", "source": "typed" },
+      {
+        "kind": "replace",
+        "start": 0,
+        "end": 2,
+        "text": "平板",
+        "source": "typed"
+      },
+      { "kind": "pause", "ms": 3500 }
+    ],
+    "text": "平板手机",
+    "claimed": {
+      "inputElapsedMs": 4000,
+      "forwardTypedUnits": 6,
+      "effectivePositiveUnits": 4,
+      "reverseUnits": 2,
+      "reverseActions": 1,
+      "pasteUnits": 0,
+      "pauseMs": 1000,
+      "focusLossMs": 0
+    }
+  },
+  {
+    "name": "unknown-metadata-is-not-invented-typing",
+    "events": [
+      {
+        "kind": "replace",
+        "start": 0,
+        "end": 0,
+        "text": "未知输入",
+        "source": "unverified"
+      }
+    ],
+    "text": "未知输入",
+    "claimed": {
+      "inputElapsedMs": 4000,
+      "forwardTypedUnits": 0,
+      "effectivePositiveUnits": 0,
+      "reverseUnits": 0,
+      "reverseActions": 0,
+      "pasteUnits": 0,
+      "pauseMs": 0,
+      "focusLossMs": 0
+    }
+  }
+]

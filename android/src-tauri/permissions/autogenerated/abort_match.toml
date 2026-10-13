@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-abort-match"
+description = "Enables the abort_match command without any pre-configured scope."
+commands.allow = ["abort_match"]
+
+[[permission]]
+identifier = "deny-abort-match"
+description = "Denies the abort_match command without any pre-configured scope."
+commands.deny = ["abort_match"]

@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-cross-exam-prepare-answer"
+description = "Enables the cross_exam_prepare_answer command without any pre-configured scope."
+commands.allow = ["cross_exam_prepare_answer"]
+
+[[permission]]
+identifier = "deny-cross-exam-prepare-answer"
+description = "Denies the cross_exam_prepare_answer command without any pre-configured scope."
+commands.deny = ["cross_exam_prepare_answer"]
